@@ -5,10 +5,6 @@
   </picture>
 </p>
 
-I work on photo tools and game mods. The moustache handles quality control.
-
-**On the bench** · Rust for PhotoCraft, Lua for Darktide mods, and Python for packaging and test tooling.
-
 ## Projects
 
 - **[PhotoCraft](https://github.com/storytold/photocraft)** · I contributed [smoother Work Path dragging](https://github.com/storytold/photocraft/pull/9306), [Type on a Path fixes](https://github.com/storytold/photocraft/pull/9523), and [drag positioning in print preview](https://github.com/storytold/photocraft/pull/8236) to this open-source photo editor.
